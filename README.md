@@ -75,5 +75,6 @@
 	) ENGINE=InnoDB AUTO_INCREMENT=52 DEFAULT CHARSET=utf8$$
  
  
- 
+
+ 原版地址：https://github.com/RobinWuDev/bookmanager
 
