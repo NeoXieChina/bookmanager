@@ -44,6 +44,7 @@
 	  `id` int(11) NOT NULL AUTO_INCREMENT,
 	  `name` varchar(32) DEFAULT NULL,
 	  `isbn` varchar(32) DEFAULT NULL,
+	  `isbn` varchar(32) DEFAULT NULL,
 	  `add_time` varchar(32) DEFAULT NULL,
 	  `suncco_no` varchar(32) DEFAULT NULL,
 	  `price` float DEFAULT '0',
